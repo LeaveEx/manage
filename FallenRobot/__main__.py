@@ -722,7 +722,7 @@ def main():
                 chat_id=f"@{SUPPORT_CHAT}",
                 photo=START_IMG,
                 caption=f"""
-ㅤ🥀 {BOT_NAME} ɪs ᴀʟɪᴠᴇ...
+ㅤ🐻‍❄️ {BOT_NAME} ɪs ᴀʟɪᴠᴇ...
 
 ┏•❅────✧❅✦❅✧────❅•┓
 ㅤ★ **ᴘʏᴛʜᴏɴ :** `{y()}`
