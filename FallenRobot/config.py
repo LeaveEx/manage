@@ -2,32 +2,32 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = "3330416"
-    API_HASH = "551d747d492ad11a10054fbf672d16e3"
+    API_ID = "29651673"
+    API_HASH = "51bde64a6630fb11d459b1cb41781fd2"
 
     CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
-    DATABASE_URL = "postgres://ucfbwdaa:pIqm4jVFT_D58Zf-lhqcSt4k-2_a8nSp@salt.db.elephantsql.com/ucfbwdaa"  # A sql database url from elephantsql.com
+    DATABASE_URL = "postgres://wsphktgr:MejtrepyRRzVMeHiOyfTpgm8ks0f2yAb@lallah.db.elephantsql.com/wsphktgr"  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = (-1001561812932)  # Event logs channel to note down important bot level events
+    EVENT_LOGS = (-1001928120860)  # Event logs channel to note down important bot level events
 
-    MONGO_DB_URI = "mongodb+srv://muhamadfaiz:muhamadfaiz@cluster0.mpwspud.mongodb.net/?retryWrites=true&w=majority"  # Get ths value from cloud.mongodb.com
+    MONGO_DB_URI = "mongodb+srv://anjfaiz2:anjfaiz2@cluster0.k2rtvad.mongodb.net/?retryWrites=true&w=majority"  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
-    START_IMG = "https://telegra.ph/file/04672cf73354dcaade860.jpg"
+    START_IMG = "https://telegra.ph/file/6fbdb2f77c4ec8898994e.jpg"
 
     SUPPORT_CHAT = "senzusupp"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = "5262608425:AAEbUDcE2inIrSqmzdSTTJUDlVHeZF5pJw8"  # Get bot token from @BotFather on Telegram
+    TOKEN = "5907159775:AAHCaXpstMbJPxCLuu75gIBoXqX5_cF7nR0"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 1680004937  # User id of your telegram account (Must be integer)
+    OWNER_ID = 1221971774  # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
-    DRAGONS = [730988759,1368575158,883761960,742495738]  # User id of sudo users
-    DEV_USERS = [1680004937]  # User id of dev users
+    DRAGONS = []  # User id of sudo users
+    DEV_USERS = [1221971774]  # User id of dev users
     DEMONS = []  # User id of support users
     TIGERS = []  # User id of tiger users
     WOLVES = []  # User id of whitelist users
